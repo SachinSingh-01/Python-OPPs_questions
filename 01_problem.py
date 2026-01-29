@@ -3,7 +3,6 @@ class Student:
     name="Sachin Singh"
 s1=Student()
 print(s1.name)
-
 # another method
 class Student:
     def __init__(self,name):
